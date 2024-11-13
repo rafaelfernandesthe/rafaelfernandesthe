@@ -1,29 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rafael Fernandes</h1>
 <h3 align="center">A Software Engineer seeing to Architecture. Linux advanced, Loves Cloud and Devops.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=therafaelfernandes&label=Profile%20views&color=0e75b6&style=flat" alt="therafaelfernandes" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelfernandesthe&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelfernandesthe" /> </p>-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therafaelfernandes" alt="therafaelfernandes" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelfernandesthe" alt="rafaelfernandesthe" /></a> </p>-->
 
-- 🔭 I’m currently working on [X](link)
+- 🔭 I’m currently working Software Enginner on Cleartech, a business systems development company Latam
 
-- 🌱 I’m currently learning **X**
-
-- 👯 I’m looking to collaborate on [X](link)
-
-- 🤝 I’m looking for help with [X](link)
-
-- 👨‍💻 All of my projects are available at [link](link)
-
-- 📝 I regularly write articles on [link](link)
-
-- 💬 Ask me about **X**
+- 🌱 I’m currently learning Cloud AWS Archtecture
 
 - 📫 How to reach me **rafa.elfernandes@hotmail.com**
 
-- 📄 Know about my experiences [link](link)
-
-- ⚡ Fun fact **X**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,8 +23,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/coffe1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="coffe1" /></a><a href="https://ko-fi.com/coffe2"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="coffe2" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=therafaelfernandes&show_icons=true&locale=en&layout=compact" alt="therafaelfernandes" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelfernandesthe&show_icons=true&locale=en&layout=compact" alt="rafaelfernandesthe" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=therafaelfernandes&show_icons=true&locale=en" alt="therafaelfernandes" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelfernandesthe&show_icons=true&locale=en" alt="rafaelfernandesthe" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=therafaelfernandes&" alt="therafaelfernandes" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelfernandesthe&" alt="rafaelfernandesthe" /></p>
